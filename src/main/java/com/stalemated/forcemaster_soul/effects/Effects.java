@@ -26,8 +26,6 @@ public class Effects {
                     config.value.soul_barq_esna_critical_damage_bonus
             ));
 
-
-
     public static void register() {
         SOUL_OVERFLOW
                 .addAttributeModifier(SoulFuseAttribute.SOUL_FUSE_MODIFIER, "3f1ff4db-d7a0-47cf-b5a8-16cdfc0982c6",
