@@ -12,7 +12,7 @@
 		"sources": "https://github.com/Stalemated/forcemaster-soul"
 	},
 	"license": "MIT",
-	"icon": "assets/soulmaster/icon.png",
+	"icon": "assets/soulmaster/soulmaster_icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
