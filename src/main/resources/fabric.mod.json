@@ -8,8 +8,9 @@
 		"Stalemated"
 	],
 	"contact": {
-		"homepage": "",
-		"sources": "https://github.com/Stalemated/forcemaster-soul"
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/soulmaster",
+		"sources": "https://github.com/Stalemated/soulmaster",
+		"issues": "https://github.com/Stalemated/soulmaster/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/soulmaster/soulmaster_icon.png",
