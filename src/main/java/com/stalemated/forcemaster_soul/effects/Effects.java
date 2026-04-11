@@ -20,7 +20,7 @@ public class Effects {
     public static StatusEffect SOUL_OVERFLOW = new SoulOverflowEffect(StatusEffectCategory.BENEFICIAL, 0x70e0e6);
 
     public static StatusEffect SOUL_BARQ_ESNA = new SoulBarqEsnaEffect(StatusEffectCategory.HARMFUL, 0x8db4fe)
-            .setVulnerability(SpellSchools.ARCANE, new SpellPower.Vulnerability(
+            .setVulnerability(SpellSchools.SOUL, new SpellPower.Vulnerability(
                     config.value.soul_barq_esna_soul_damage_vulnerability,
                     config.value.soul_barq_esna_critical_chance_bonus,
                     config.value.soul_barq_esna_critical_damage_bonus
